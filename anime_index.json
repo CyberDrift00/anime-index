@@ -4148,6 +4148,1510 @@
       }
     }
   },
+  "Mushoku Tensei: Jobless Reincarnation": {
+    "seasons": {
+      "1": {
+        "languages": {
+          "Multi Audio": {
+            "batches": {
+              "batch1": [
+                {
+                  "file": 1209,
+                  "channel_id": -1003175788400,
+                  "name": "[S1 E01] Mushoku Tensei [Multi] 720p.mkv"
+                },
+                {
+                  "file": 1210,
+                  "channel_id": -1003175788400,
+                  "name": "[S1 E02] Mushoku Tensei [Multi] 720p.mkv"
+                },
+                {
+                  "file": 1211,
+                  "channel_id": -1003175788400,
+                  "name": "[S1 E03] Mushoku Tensei [Multi] 720p.mkv"
+                },
+                {
+                  "file": 1212,
+                  "channel_id": -1003175788400,
+                  "name": "[S1 E04] Mushoku Tensei [Multi] 720p.mkv"
+                },
+                {
+                  "file": 1213,
+                  "channel_id": -1003175788400,
+                  "name": "[S1 E05] Mushoku Tensei [Multi] 720p.mkv"
+                }
+              ],
+              "batch2": [
+                {
+                  "file": 1214,
+                  "channel_id": -1003175788400,
+                  "name": "[S1 E06] Mushoku Tensei [Multi] 720p.mkv"
+                },
+                {
+                  "file": 1215,
+                  "channel_id": -1003175788400,
+                  "name": "[S1 E07] Mushoku Tensei [Multi] 720p.mkv"
+                },
+                {
+                  "file": 1216,
+                  "channel_id": -1003175788400,
+                  "name": "[S1 E08] Mushoku Tensei [Multi] 720p.mkv"
+                },
+                {
+                  "file": 1217,
+                  "channel_id": -1003175788400,
+                  "name": "[S1 E09] Mushoku Tensei [Multi] 720p.mkv"
+                },
+                {
+                  "file": 1218,
+                  "channel_id": -1003175788400,
+                  "name": "[S1 E10] Mushoku Tensei [Multi] 720p.mkv"
+                }
+              ],
+              "batch3": [
+                {
+                  "file": 1219,
+                  "channel_id": -1003175788400,
+                  "name": "[S1 E11] Mushoku Tensei [Multi] 720p.mkv"
+                },
+                {
+                  "file": 1220,
+                  "channel_id": -1003175788400,
+                  "name": "[S1 E12] Mushoku Tensei [Multi] 720p.mkv"
+                },
+                {
+                  "file": 1221,
+                  "channel_id": -1003175788400,
+                  "name": "[S1 E13] Mushoku Tensei [Multi] 720p.mkv"
+                },
+                {
+                  "file": 1222,
+                  "channel_id": -1003175788400,
+                  "name": "[S1 E14] Mushoku Tensei [Multi] 720p.mkv"
+                },
+                {
+                  "file": 1223,
+                  "channel_id": -1003175788400,
+                  "name": "[S1 E15] Mushoku Tensei [Multi] 720p.mkv"
+                }
+              ],
+              "batch4": [
+                {
+                  "file": 1224,
+                  "channel_id": -1003175788400,
+                  "name": "[S1 E16] Mushoku Tensei [Multi] 720p.mkv"
+                },
+                {
+                  "file": 1225,
+                  "channel_id": -1003175788400,
+                  "name": "[S1 E17] Mushoku Tensei [Multi] 720p.mkv"
+                },
+                {
+                  "file": 1226,
+                  "channel_id": -1003175788400,
+                  "name": "[S1 E18] Mushoku Tensei [Multi] 720p.mkv"
+                },
+                {
+                  "file": 1227,
+                  "channel_id": -1003175788400,
+                  "name": "[S1 E19] Mushoku Tensei [Multi] 720p.mkv"
+                },
+                {
+                  "file": 1228,
+                  "channel_id": -1003175788400,
+                  "name": "[S1 E20] Mushoku Tensei [Multi] 720p.mkv"
+                }
+              ],
+              "batch5": [
+                {
+                  "file": 1229,
+                  "channel_id": -1003175788400,
+                  "name": "[S1 E21] Mushoku Tensei [Multi] 720p.mkv"
+                },
+                {
+                  "file": 1230,
+                  "channel_id": -1003175788400,
+                  "name": "[S1 E22] Mushoku Tensei [Multi] 720p.mkv"
+                },
+                {
+                  "file": 1231,
+                  "channel_id": -1003175788400,
+                  "name": "[S1 E23] Mushoku Tensei [Multi] 720p.mkv"
+                }
+              ]
+            },
+            "specials": {}
+          }
+        },
+        "mal_ids": [
+          "39535",
+          "45576",
+          "50360",
+          "51179",
+          "55818",
+          "55888"
+        ],
+        "missing_episodes": [],
+        "total_episodes": 0
+      },
+      "2": {
+        "languages": {
+          "Multi Audio": {
+            "batches": {
+              "batch0": [
+                {
+                  "file": 1234,
+                  "channel_id": -1003175788400,
+                  "name": "[S02 - E00] Mushoku Tensei Jobless [Multi] 480p.mkv"
+                }
+              ],
+              "batch1": [
+                {
+                  "file": 1235,
+                  "channel_id": -1003175788400,
+                  "name": "[S02 - E01] Mushoku Tensei Jobless [Multi] 480p.mkv"
+                },
+                {
+                  "file": 1236,
+                  "channel_id": -1003175788400,
+                  "name": "[S02 - E02] Mushoku Tensei Jobless [Multi] 480p.mkv"
+                },
+                {
+                  "file": 1237,
+                  "channel_id": -1003175788400,
+                  "name": "[S02 - E03] Mushoku Tensei Jobless [Multi] 480p.mkv"
+                },
+                {
+                  "file": 1238,
+                  "channel_id": -1003175788400,
+                  "name": "[S02 - E04] Mushoku Tensei Jobless [Multi] 480p.mkv"
+                },
+                {
+                  "file": 1239,
+                  "channel_id": -1003175788400,
+                  "name": "[S02 - E05] Mushoku Tensei Jobless [Multi] 480p.mkv"
+                }
+              ],
+              "batch2": [
+                {
+                  "file": 1240,
+                  "channel_id": -1003175788400,
+                  "name": "[S02 - E06] Mushoku Tensei Jobless [Multi] 480p.mkv"
+                },
+                {
+                  "file": 1241,
+                  "channel_id": -1003175788400,
+                  "name": "[S02 - E07] Mushoku Tensei Jobless [Multi] 480p.mkv"
+                },
+                {
+                  "file": 1242,
+                  "channel_id": -1003175788400,
+                  "name": "[S02 - E08] Mushoku Tensei Jobless [Multi] 480p.mkv"
+                },
+                {
+                  "file": 1243,
+                  "channel_id": -1003175788400,
+                  "name": "[S02 - E09] Mushoku Tensei Jobless [Multi] 480p.mkv"
+                },
+                {
+                  "file": 1244,
+                  "channel_id": -1003175788400,
+                  "name": "[S02 - E10] Mushoku Tensei Jobless [Multi] 480p.mkv"
+                }
+              ],
+              "batch3": [
+                {
+                  "file": 1245,
+                  "channel_id": -1003175788400,
+                  "name": "[S02 - E11] Mushoku Tensei Jobless [Multi] 480p.mkv"
+                },
+                {
+                  "file": 1246,
+                  "channel_id": -1003175788400,
+                  "name": "[S02 - E12] Mushoku Tensei Jobless [Multi] 480p.mkv"
+                },
+                {
+                  "file": 1247,
+                  "channel_id": -1003175788400,
+                  "name": "[S02 - E13] Mushoku Tensei Jobless [Multi] 480p.mkv"
+                },
+                {
+                  "file": 1248,
+                  "channel_id": -1003175788400,
+                  "name": "[S02 - E14] Mushoku Tensei Jobless [Multi] 480p.mkv"
+                },
+                {
+                  "file": 1249,
+                  "channel_id": -1003175788400,
+                  "name": "[S02 - E15] Mushoku Tensei Jobless [Multi] 480p.mkv"
+                }
+              ],
+              "batch4": [
+                {
+                  "file": 1250,
+                  "channel_id": -1003175788400,
+                  "name": "[S02 - E16] Mushoku Tensei Jobless [Multi] 480p.mkv"
+                },
+                {
+                  "file": 1251,
+                  "channel_id": -1003175788400,
+                  "name": "[S02 - E17] Mushoku Tensei Jobless [Multi] 480p.mkv"
+                },
+                {
+                  "file": 1252,
+                  "channel_id": -1003175788400,
+                  "name": "[S02 - E18] Mushoku Tensei Jobless [Multi] 480p.mkv"
+                },
+                {
+                  "file": 1253,
+                  "channel_id": -1003175788400,
+                  "name": "[S02 - E19] Mushoku Tensei Jobless [Multi] 480p.mkv"
+                },
+                {
+                  "file": 1254,
+                  "channel_id": -1003175788400,
+                  "name": "[S02 - E20] Mushoku Tensei Jobless [Multi] 480p.mkv"
+                }
+              ],
+              "batch5": [
+                {
+                  "file": 1255,
+                  "channel_id": -1003175788400,
+                  "name": "[S02 - E21] Mushoku Tensei Jobless [Multi] 480p.mkv"
+                },
+                {
+                  "file": 1256,
+                  "channel_id": -1003175788400,
+                  "name": "[S02 - E22] Mushoku Tensei Jobless [Multi] 480p.mkv"
+                },
+                {
+                  "file": 1257,
+                  "channel_id": -1003175788400,
+                  "name": "[S02 - E23] Mushoku Tensei Jobless [Multi] 480p.mkv"
+                },
+                {
+                  "file": 1258,
+                  "channel_id": -1003175788400,
+                  "name": "[S02 - E24] Mushoku Tensei Jobless [Multi] 480p.mkv"
+                }
+              ]
+            },
+            "specials": {}
+          }
+        },
+        "mal_ids": [
+          "39535",
+          "45576",
+          "50360",
+          "51179",
+          "55818",
+          "55888"
+        ],
+        "missing_episodes": [],
+        "total_episodes": 0
+      }
+    }
+  },
+  "Naruto": {
+    "seasons": {
+      "1": {
+        "languages": {
+          "English": {
+            "batches": {
+              "batch1": [
+                {
+                  "file": 57,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto Season 1] Epi 01.mkv"
+                },
+                {
+                  "file": 58,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto Season 1] Epi 02.mkv"
+                },
+                {
+                  "file": 59,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto Season 1] Epi 03.mkv"
+                },
+                {
+                  "file": 60,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto Season 1] Epi 04.mkv"
+                },
+                {
+                  "file": 61,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto Season 1] Epi 05.mkv"
+                },
+                {
+                  "file": 89,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 33.mkv"
+                }
+              ],
+              "batch2": [
+                {
+                  "file": 63,
+                  "channel_id": -1003498912074,
+                  "name": "(Naruto) 007 - The Assassin of the Mist.mkv"
+                },
+                {
+                  "file": 64,
+                  "channel_id": -1003498912074,
+                  "name": "(Naruto) 008 - The Oath of Pain.mkv"
+                },
+                {
+                  "file": 62,
+                  "channel_id": -1003498912074,
+                  "name": "(naruto) 006- Journey to the Land of the Waves.mkv"
+                },
+                {
+                  "file": 65,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] episode 09 - Kakashi Sharingan Warrior.mkv"
+                },
+                {
+                  "file": 66,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] episode 10 - The Forest of Chakra.mkv"
+                }
+              ],
+              "batch3": [
+                {
+                  "file": 70,
+                  "channel_id": -1003498912074,
+                  "name": "Naruto_Season_1_Epi14_The_Number_One_Hyperactive_Knucklehead_Ninja.mkv"
+                },
+                {
+                  "file": 71,
+                  "channel_id": -1003498912074,
+                  "name": "Naruto_Season_1_Epi15_Zero_Visibility,_The_Sharingan_Shatters.mkv"
+                },
+                {
+                  "file": 68,
+                  "channel_id": -1003498912074,
+                  "name": "Naruto_episode_12_The_Battle_on_the_Bridge,_Zabuza_Returns.mkv"
+                },
+                {
+                  "file": 69,
+                  "channel_id": -1003498912074,
+                  "name": "Naruto_episode_13_Haku's_Secret_Jutsu_Crystal_Ice_Mirrors.mkv"
+                },
+                {
+                  "file": 67,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] episode 11 - The Land Where a Hero Once Lived.mkv"
+                }
+              ],
+              "batch4": [
+                {
+                  "file": 72,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] [episodes.16].mkv"
+                },
+                {
+                  "file": 74,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto][episode 18].mkv"
+                },
+                {
+                  "file": 73,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto][episode.17].mkv"
+                },
+                {
+                  "file": 75,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto][episode19].mkv"
+                },
+                {
+                  "file": 76,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto][episode20].mkv"
+                }
+              ],
+              "batch5": [
+                {
+                  "file": 78,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto season 1 ] Epi 22.mkv"
+                },
+                {
+                  "file": 79,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto season1 ] Epi 23.mkv"
+                },
+                {
+                  "file": 77,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto season1 ] epi 21.mkv"
+                },
+                {
+                  "file": 80,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Epi 24.mkv"
+                },
+                {
+                  "file": 81,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Epi 25.mkv"
+                }
+              ],
+              "batch6": [
+                {
+                  "file": 82,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Epi 26.mkv"
+                },
+                {
+                  "file": 83,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Epi 27.mkv"
+                },
+                {
+                  "file": 84,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Epi 28.mkv"
+                },
+                {
+                  "file": 85,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 29.mkv"
+                },
+                {
+                  "file": 86,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 30.mkv"
+                }
+              ],
+              "batch7": [
+                {
+                  "file": 87,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 31.mkv"
+                },
+                {
+                  "file": 88,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 32.mkv"
+                },
+                {
+                  "file": 90,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 34.mkv"
+                },
+                {
+                  "file": 91,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 35.mkv"
+                }
+              ],
+              "batch8": [
+                {
+                  "file": 92,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 36.mkv"
+                },
+                {
+                  "file": 93,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 37.mkv"
+                },
+                {
+                  "file": 97,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 38.mkv"
+                },
+                {
+                  "file": 98,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 39.mkv"
+                },
+                {
+                  "file": 101,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 40.mkv"
+                }
+              ],
+              "batch9": [
+                {
+                  "file": 99,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 41.mkv"
+                },
+                {
+                  "file": 100,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 42.mkv"
+                },
+                {
+                  "file": 104,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 43.mkv"
+                },
+                {
+                  "file": 102,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 44.mkv"
+                },
+                {
+                  "file": 103,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 45.mkv"
+                }
+              ],
+              "batch10": [
+                {
+                  "file": 105,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 46.mkv"
+                },
+                {
+                  "file": 106,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 47.mkv"
+                },
+                {
+                  "file": 107,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 48.mkv"
+                },
+                {
+                  "file": 108,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 49.mkv"
+                },
+                {
+                  "file": 109,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 50.mkv"
+                }
+              ],
+              "batch11": [
+                {
+                  "file": 110,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 51.mkv"
+                },
+                {
+                  "file": 111,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 52.mkv"
+                },
+                {
+                  "file": 112,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 53.mkv"
+                },
+                {
+                  "file": 113,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 54.mkv"
+                },
+                {
+                  "file": 114,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 55.mkv"
+                }
+              ],
+              "batch12": [
+                {
+                  "file": 115,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 56.mkv"
+                },
+                {
+                  "file": 116,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 57.mkv"
+                },
+                {
+                  "file": 117,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 58.mkv"
+                },
+                {
+                  "file": 118,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 59.mkv"
+                },
+                {
+                  "file": 119,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 60.mkv"
+                }
+              ],
+              "batch13": [
+                {
+                  "file": 269,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 204.mkv"
+                },
+                {
+                  "file": 120,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 61.mkv"
+                },
+                {
+                  "file": 121,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 62.mkv"
+                },
+                {
+                  "file": 122,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 63.mkv"
+                },
+                {
+                  "file": 123,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 64.mkv"
+                },
+                {
+                  "file": 124,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 65.mkv"
+                }
+              ],
+              "batch14": [
+                {
+                  "file": 125,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 66.mkv"
+                },
+                {
+                  "file": 126,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 67.mkv"
+                },
+                {
+                  "file": 127,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 68.mkv"
+                },
+                {
+                  "file": 129,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 69.mkv"
+                },
+                {
+                  "file": 130,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 70.mkv"
+                }
+              ],
+              "batch15": [
+                {
+                  "file": 128,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 71.mkv"
+                },
+                {
+                  "file": 131,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 72.mkv"
+                },
+                {
+                  "file": 132,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 73.mkv"
+                },
+                {
+                  "file": 133,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 74.mkv"
+                },
+                {
+                  "file": 134,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 75.mkv"
+                }
+              ],
+              "batch16": [
+                {
+                  "file": 135,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 76.mkv"
+                },
+                {
+                  "file": 136,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 77.mkv"
+                },
+                {
+                  "file": 140,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 78.mkv"
+                },
+                {
+                  "file": 141,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 79.mkv"
+                },
+                {
+                  "file": 142,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 80.mkv"
+                }
+              ],
+              "batch17": [
+                {
+                  "file": 143,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 81.mkv"
+                },
+                {
+                  "file": 144,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 82.mkv"
+                },
+                {
+                  "file": 145,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 83.mkv"
+                },
+                {
+                  "file": 146,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 84.mkv"
+                },
+                {
+                  "file": 147,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 85.mkv"
+                }
+              ],
+              "batch18": [
+                {
+                  "file": 148,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 86.mkv"
+                },
+                {
+                  "file": 149,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 90.mkv"
+                }
+              ],
+              "batch19": [
+                {
+                  "file": 150,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 91.mkv"
+                },
+                {
+                  "file": 151,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 92.mkv"
+                },
+                {
+                  "file": 152,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 93.mkv"
+                },
+                {
+                  "file": 153,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 94.mkv"
+                },
+                {
+                  "file": 154,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 95.mkv"
+                }
+              ],
+              "batch20": [
+                {
+                  "file": 159,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episod 100.mkv"
+                },
+                {
+                  "file": 155,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 96.mkv"
+                },
+                {
+                  "file": 156,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 97.mkv"
+                },
+                {
+                  "file": 157,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 98.mkv"
+                },
+                {
+                  "file": 158,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 99.mkv"
+                }
+              ],
+              "batch21": [
+                {
+                  "file": 160,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 101.mkv"
+                },
+                {
+                  "file": 161,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 102.mkv"
+                },
+                {
+                  "file": 162,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 103.mkv"
+                },
+                {
+                  "file": 163,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 104.mkv"
+                },
+                {
+                  "file": 164,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 105.mkv"
+                }
+              ],
+              "batch22": [
+                {
+                  "file": 165,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 106.mkv"
+                },
+                {
+                  "file": 166,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 107.mkv"
+                },
+                {
+                  "file": 167,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 108.mkv"
+                },
+                {
+                  "file": 168,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 109.mkv"
+                },
+                {
+                  "file": 169,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 110.mkv"
+                }
+              ],
+              "batch23": [
+                {
+                  "file": 170,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 111.mkv"
+                },
+                {
+                  "file": 171,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 112.mkv"
+                },
+                {
+                  "file": 172,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 113.mkv"
+                },
+                {
+                  "file": 173,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 114.mkv"
+                },
+                {
+                  "file": 174,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 115.mkv"
+                }
+              ],
+              "batch24": [
+                {
+                  "file": 175,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 116.mkv"
+                },
+                {
+                  "file": 176,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 117.mkv"
+                },
+                {
+                  "file": 177,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 118.mkv"
+                },
+                {
+                  "file": 178,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 119.mkv"
+                },
+                {
+                  "file": 179,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 120.mkv"
+                }
+              ],
+              "batch25": [
+                {
+                  "file": 180,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 121.mkv"
+                },
+                {
+                  "file": 181,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 122.mkv"
+                },
+                {
+                  "file": 182,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 123.mkv"
+                },
+                {
+                  "file": 183,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 124.mkv"
+                },
+                {
+                  "file": 184,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 125.mkv"
+                }
+              ],
+              "batch26": [
+                {
+                  "file": 185,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 126.mkv"
+                },
+                {
+                  "file": 186,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 127.mkv"
+                },
+                {
+                  "file": 187,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 128.mkv"
+                },
+                {
+                  "file": 188,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 129.mkv"
+                },
+                {
+                  "file": 189,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 130.mkv"
+                }
+              ],
+              "batch27": [
+                {
+                  "file": 190,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 131.mkv"
+                },
+                {
+                  "file": 191,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 132.mkv"
+                },
+                {
+                  "file": 192,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 133.mkv"
+                },
+                {
+                  "file": 193,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 134.mkv"
+                },
+                {
+                  "file": 194,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 135.mkv"
+                }
+              ],
+              "batch28": [
+                {
+                  "file": 198,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 136.mkv"
+                },
+                {
+                  "file": 199,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 137.mkv"
+                },
+                {
+                  "file": 200,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 138.mkv"
+                },
+                {
+                  "file": 201,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 139.mkv"
+                },
+                {
+                  "file": 202,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 140.mkv"
+                }
+              ],
+              "batch29": [
+                {
+                  "file": 203,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 141.mkv"
+                },
+                {
+                  "file": 204,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 142.mkv"
+                },
+                {
+                  "file": 205,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 143.mkv"
+                },
+                {
+                  "file": 206,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 144.mkv"
+                },
+                {
+                  "file": 207,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 145.mkv"
+                }
+              ],
+              "batch30": [
+                {
+                  "file": 208,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 146.mkv"
+                },
+                {
+                  "file": 209,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 147.mkv"
+                },
+                {
+                  "file": 210,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 148.mkv"
+                },
+                {
+                  "file": 211,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 149.mkv"
+                },
+                {
+                  "file": 212,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 150.mkv"
+                }
+              ],
+              "batch31": [
+                {
+                  "file": 213,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 151.mkv"
+                },
+                {
+                  "file": 214,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 152.mkv"
+                },
+                {
+                  "file": 215,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 153.mkv"
+                },
+                {
+                  "file": 216,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 154.mkv"
+                }
+              ],
+              "batch32": [
+                {
+                  "file": 217,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 156.mkv"
+                },
+                {
+                  "file": 218,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 157.mkv"
+                },
+                {
+                  "file": 219,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 158.mkv"
+                },
+                {
+                  "file": 220,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 159.mkv"
+                },
+                {
+                  "file": 221,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 160.mkv"
+                }
+              ],
+              "batch33": [
+                {
+                  "file": 222,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode161.mkv"
+                },
+                {
+                  "file": 223,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode162.mkv"
+                },
+                {
+                  "file": 224,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode163.mkv"
+                },
+                {
+                  "file": 225,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode164.mkv"
+                },
+                {
+                  "file": 226,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode165.mkv"
+                }
+              ],
+              "batch34": [
+                {
+                  "file": 227,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode166.mkv"
+                },
+                {
+                  "file": 228,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode167.mkv"
+                },
+                {
+                  "file": 229,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode168.mkv"
+                },
+                {
+                  "file": 230,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode169.mkv"
+                },
+                {
+                  "file": 231,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode170.mkv"
+                }
+              ],
+              "batch35": [
+                {
+                  "file": 232,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode171.mkv"
+                },
+                {
+                  "file": 233,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode172.mkv"
+                },
+                {
+                  "file": 234,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode173.mkv"
+                },
+                {
+                  "file": 235,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode174.mkv"
+                },
+                {
+                  "file": 236,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode175.mkv"
+                }
+              ],
+              "batch36": [
+                {
+                  "file": 237,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 176.mkv"
+                },
+                {
+                  "file": 238,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 177.mkv"
+                },
+                {
+                  "file": 239,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 178.mkv"
+                },
+                {
+                  "file": 240,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 179.mkv"
+                },
+                {
+                  "file": 241,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 180.mkv"
+                }
+              ],
+              "batch37": [
+                {
+                  "file": 246,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 185.mkv"
+                },
+                {
+                  "file": 242,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode181.mkv"
+                },
+                {
+                  "file": 243,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode182.mkv"
+                },
+                {
+                  "file": 244,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode183.mkv"
+                },
+                {
+                  "file": 245,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode184.mkv"
+                }
+              ],
+              "batch38": [
+                {
+                  "file": 251,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 186.mkv"
+                },
+                {
+                  "file": 252,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode187.mkv"
+                },
+                {
+                  "file": 253,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode188.mkv"
+                },
+                {
+                  "file": 254,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode189.mkv"
+                },
+                {
+                  "file": 255,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode190.mkv"
+                }
+              ],
+              "batch39": [
+                {
+                  "file": 260,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 195.mkv"
+                },
+                {
+                  "file": 256,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode191.mkv"
+                },
+                {
+                  "file": 257,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode192.mkv"
+                },
+                {
+                  "file": 258,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode193.mkv"
+                },
+                {
+                  "file": 259,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode194.mkv"
+                }
+              ],
+              "batch40": [
+                {
+                  "file": 261,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 196.mkv"
+                },
+                {
+                  "file": 262,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 197.mkv"
+                },
+                {
+                  "file": 263,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 198.mkv"
+                },
+                {
+                  "file": 264,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 199.mkv"
+                },
+                {
+                  "file": 265,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 200.mkv"
+                }
+              ],
+              "batch41": [
+                {
+                  "file": 266,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 201.mkv"
+                },
+                {
+                  "file": 267,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 202.mkv"
+                },
+                {
+                  "file": 268,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 203.mkv"
+                },
+                {
+                  "file": 270,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 205.mkv"
+                }
+              ],
+              "batch42": [
+                {
+                  "file": 271,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 206.mkv"
+                },
+                {
+                  "file": 272,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 207.mkv"
+                },
+                {
+                  "file": 273,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 208.mkv"
+                },
+                {
+                  "file": 274,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 209.mkv"
+                },
+                {
+                  "file": 275,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 210.mkv"
+                }
+              ],
+              "batch43": [
+                {
+                  "file": 276,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 211.mkv"
+                },
+                {
+                  "file": 277,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 212.mkv"
+                },
+                {
+                  "file": 278,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 213.mkv"
+                },
+                {
+                  "file": 279,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 214.mkv"
+                },
+                {
+                  "file": 280,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 215.mkv"
+                }
+              ],
+              "batch44": [
+                {
+                  "file": 281,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 216.mkv"
+                },
+                {
+                  "file": 282,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 217.mkv"
+                },
+                {
+                  "file": 283,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 218.mkv"
+                },
+                {
+                  "file": 284,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 219.mkv"
+                },
+                {
+                  "file": 285,
+                  "channel_id": -1003498912074,
+                  "name": "[Naruto] Episode 220.mkv"
+                }
+              ],
+              "batch_uncategorized": [
+                {
+                  "file": 250,
+                  "channel_id": -1003498912074,
+                  "name": "Unknown"
+                }
+              ]
+            },
+            "specials": {}
+          }
+        },
+        "mal_ids": [
+          "20"
+        ],
+        "missing_episodes": [
+          33,
+          87,
+          88,
+          89,
+          155,
+          204
+        ],
+        "total_episodes": 0
+      }
+    }
+  },
   "Overflow": {
     "seasons": {
       "1": {
@@ -4464,6 +5968,36 @@
         },
         "mal_ids": [
           "62512"
+        ],
+        "missing_episodes": [],
+        "total_episodes": 0
+      }
+    }
+  },
+  "Sentenced to Be a Hero": {
+    "seasons": {
+      "1": {
+        "languages": {
+          "Hindi": {
+            "batches": {
+              "batch1": [
+                {
+                  "file": 1262,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 01 720p.mp4"
+                },
+                {
+                  "file": 1263,
+                  "channel_id": -1003175788400,
+                  "name": "[@Anime_Hindi_Flix] season 01 episode 02 720p.mp4"
+                }
+              ]
+            },
+            "specials": {}
+          }
+        },
+        "mal_ids": [
+          "56009"
         ],
         "missing_episodes": [],
         "total_episodes": 0
