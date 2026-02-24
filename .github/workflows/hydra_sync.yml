@@ -25,6 +25,17 @@ jobs:
           git commit -m "Sync to mirrors (excluding workflow)"
 
       # =========================================================
+      # 7️⃣ MIRROR 7: CyberDrift00
+      # =========================================================
+      - name: Sync to CyberDrift00
+        run: |
+          git config --global --unset http.https://github.com/.extraheader || true
+          git remote add mirror7 https://CyberDrift00:${{ secrets.PAT_MIRROR_7 }}@github.com/CyberDrift00/anime-index.git
+          git push mirror7 main --force
+          git remote remove mirror7
+
+
+      # =========================================================
       # 1️⃣ MIRROR 1: otakuhero99-lang
       # =========================================================
       - name: Sync to otakuhero99-lang
@@ -84,12 +95,3 @@ jobs:
           git push mirror6 main --force
           git remote remove mirror6
 
-      # =========================================================
-      # 7️⃣ MIRROR 7: CyberDrift00
-      # =========================================================
-      - name: Sync to CyberDrift00
-        run: |
-          git config --global --unset http.https://github.com/.extraheader || true
-          git remote add mirror7 https://CyberDrift00:${{ secrets.PAT_MIRROR_7 }}@github.com/CyberDrift00/anime-index.git
-          git push mirror7 main --force
-          git remote remove mirror7
