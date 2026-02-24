@@ -35,15 +35,7 @@ jobs:
           git remote remove mirror7
 
 
-      # =========================================================
-      # 1️⃣ MIRROR 1: otakuhero99-lang
-      # =========================================================
-      - name: Sync to otakuhero99-lang
-        run: |
-          git config --global --unset http.https://github.com/.extraheader || true
-          git remote add mirror1 https://otakuhero99-lang:${{ secrets.PAT_MIRROR_1 }}@github.com/otakuhero99-lang/anime-index.git
-          git push mirror1 main --force
-          git remote remove mirror1
+     
 
       # =========================================================
       # 2️⃣ MIRROR 2: balwindar-wq
